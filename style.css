@@ -4,67 +4,6 @@
     padding: 0;
 }
 
-body{
-   background-color: wheat;
-}
-
-main{
-    
-    padding: 80px 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    
-}
-
-.CARD{
-    background-color: hsl(0, 0%, 100%);
-    
-}
-
-.about{
-    color: hsl(300, 43%, 22%);
-    font-size: xx-large;
-}
-
-.reason{
-
-}
-
-.ratings{
-
-}
-
-.profiles{
-
-}
-
-.Profiles_{
-
-}
-
-.avatar{
-    border-radius: 50px;
-    height: 50px;
-    width: 50px;
-}
-
-h2{
-
-}
-
-h3{
-
-}
-
-p{
-
-}
-
-
-
-
-
 
 
 
@@ -76,5 +15,4 @@ p{
   }
 .attribution a {
     color: hsl(228, 45%, 44%);
-  }
   }
